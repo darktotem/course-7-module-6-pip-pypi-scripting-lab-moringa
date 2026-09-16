@@ -29,4 +29,4 @@ def generate_log(data):
 if __name__ == "__main__":
     log_data = ["User logged in", "User updated profile", "Report exported"]
     generate_log(log_data)
-    pass
+

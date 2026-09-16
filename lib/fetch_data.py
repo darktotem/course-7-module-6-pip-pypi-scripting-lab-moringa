@@ -1,3 +1,4 @@
+"""fetch_data.py - Fetches data from a public API using the requests package."""
 import requests
 
 
